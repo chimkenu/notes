@@ -1,0 +1,1 @@
+A kluge (also spelled kludge) is a clumsy, inelegant, and often temporary solution to a problem. It's a workaround that might get the job done, but isn't well-designed, efficient, or easy to maintain. Essentially, it's a quick fix that sacrifices long-term quality for immediate results.
